@@ -8,6 +8,6 @@
   "license": "Don't FUCK UP your PROD environment",
   "dependencies": {
     "express": "4.17.1",
-    "pug": "^2.0.4"
+    "pug": "2.0.4"
   }
 }
