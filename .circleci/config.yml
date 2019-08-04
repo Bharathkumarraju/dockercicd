@@ -1,4 +1,3 @@
-# Example build file
 test:
   override:
     - mocha
